@@ -1,1 +1,1 @@
-# CS480_Translators
+# CS480_Translators (Compilers & Interpreters)
